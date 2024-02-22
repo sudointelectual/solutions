@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sudointelectual.github.io/solutions/contact.html",
+            "url": "https://sudointelectual.github.io/solutions/contact.html",
+            "title": "Contact",
+            "summary": "Contact for solutions Tim @ SudoSolutions",
+            "content_html": "<p>Contact for solutions</p>\n<p><a href=\"mailto:sudointellect@protonmail.com\">Tim @ SudoSolutions</a></p>\n<p> </p>",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-21T23:54:49-08:00",
+            "date_modified": "2024-02-21T23:54:49-08:00"
+        },
+        {
             "id": "https://sudointelectual.github.io/solutions/homep.html",
             "url": "https://sudointelectual.github.io/solutions/homep.html",
             "title": "Our Services",

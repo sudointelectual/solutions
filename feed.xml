@@ -3,12 +3,34 @@
     <title>Sudo Solutions</title>
     <link href="https://sudointelectual.github.io/solutions/feed.xml" rel="self" />
     <link href="https://sudointelectual.github.io/solutions" />
-    <updated>2024-02-21T22:02:13-08:00</updated>
+    <updated>2024-02-21T23:54:49-08:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://sudointelectual.github.io/solutions</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://sudointelectual.github.io/solutions/contact.html"/>
+        <id>https://sudointelectual.github.io/solutions/contact.html</id>
+
+        <updated>2024-02-21T23:54:49-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Contact for solutions Tim @ SudoSolutions
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Contact for solutions</p>
+<p><a href="mailto:sudointellect@protonmail.com">Tim @ SudoSolutions</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Our Services</title>
         <author>
