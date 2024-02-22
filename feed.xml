@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sudo Solutions</title>
+    <link href="https://sudointelectual.github.io/solutions/feed.xml" rel="self" />
+    <link href="https://sudointelectual.github.io/solutions" />
+    <updated>2024-02-21T22:02:13-08:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://sudointelectual.github.io/solutions</id>
+
+    <entry>
+        <title>Our Services</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://sudointelectual.github.io/solutions/homep.html"/>
+        <id>https://sudointelectual.github.io/solutions/homep.html</id>
+
+        <updated>2024-02-21T22:02:13-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Data extraction, Manipulation - We customize to your needs Server solutions - Automate your Linux experience Contact for free estimations. Happy to answer any and all questions!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://sudointelectual.github.io/solutions/media/posts/1/sudo-logo-2.png" alt="" width="266" height="231" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-xs.png 300w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-sm.png 480w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-md.png 768w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-lg.png 1024w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-xl.png 1360w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-2xl.png 1600w"></figure>
+<ul>
+<li>Data extraction, Manipulation - We customize to your needs</li>
+<li class="align-left">Server solutions - Automate your Linux experience</li>
+<li>Contact for free estimations. Happy to answer any and all questions!</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://sudointelectual.github.io/solutions/media/posts/1/sudo-splash-2.png" alt="" width="370" height="305" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-xs.png 300w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-sm.png 480w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-md.png 768w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-lg.png 1024w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-xl.png 1360w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

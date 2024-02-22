@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sudointelectual.github.io/solutions/sitemap.xml

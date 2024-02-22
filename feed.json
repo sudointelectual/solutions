@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sudo Solutions",
+    "description": "",
+    "home_page_url": "https://sudointelectual.github.io/solutions",
+    "feed_url": "https://sudointelectual.github.io/solutions/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://sudointelectual.github.io/solutions/homep.html",
+            "url": "https://sudointelectual.github.io/solutions/homep.html",
+            "title": "Our Services",
+            "summary": "Data extraction, Manipulation - We customize to your needs Server solutions - Automate your Linux experience Contact for free estimations. Happy to answer any and all questions!",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sudointelectual.github.io/solutions/media/posts/1/sudo-logo-2.png\" alt=\"\" width=\"266\" height=\"231\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-xs.png 300w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-sm.png 480w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-md.png 768w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-lg.png 1024w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-xl.png 1360w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-logo-2-2xl.png 1600w\"></figure>\n<ul>\n<li>Data extraction, Manipulation - We customize to your needs</li>\n<li class=\"align-left\">Server solutions - Automate your Linux experience</li>\n<li>Contact for free estimations. Happy to answer any and all questions!</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sudointelectual.github.io/solutions/media/posts/1/sudo-splash-2.png\" alt=\"\" width=\"370\" height=\"305\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-xs.png 300w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-sm.png 480w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-md.png 768w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-lg.png 1024w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-xl.png 1360w ,https://sudointelectual.github.io/solutions/media/posts/1/responsive/sudo-splash-2-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-21T21:21:30-08:00",
+            "date_modified": "2024-02-21T22:02:13-08:00"
+        }
+    ]
+}
